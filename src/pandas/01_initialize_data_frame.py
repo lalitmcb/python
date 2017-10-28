@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-#createing dataframe with
+#creating dataframe with
 #list of countries, GDP and per capita
 countries_df = pd.DataFrame([["Germany",4.150,50206],["India", 2.454, 7153], ["USA",18.558,57467]])
 print(countries_df)
